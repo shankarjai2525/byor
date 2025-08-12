@@ -29,39 +29,7 @@
         "App Owner": "Chuah, JyyMing",
         "Original Tab (for reference)": "Manufacturing, Technology & IT",
         "Found in \"Enterprise Application Inventory\"": "true",
-        "Found in \"Application Inventory SharePoint\"?": "true"
-    },
-    {
-        "Application": "AceMART",
-        "Status": "3. GTO Done",
-        "Radar Segment": "Manufacturing",
-        "Impacted by Phoenix": "Retired",
-        "Primary CGL": "Yield Analysis",
-        "Original Environment (column to be deleted)": "Corp",
-        "Environment": "Corp",
-        "Location": "Fab7, Giga",
-        "Function": "Manufacturing",
-        "Function Description": "Datamart for Mfg data (Inline, FDC, Yield)",
-        "Category": "data",
-        "AI Enabled": "data",
-        "Platform Description": "Web Based Customer Engineering reporting in GFV",
-        "Retirement (This column to be deleted)": "data",
-        "Lifecycle": "Legacy",
-        "Trajectory": "Retire",
-        "Action": "1:0 - retirement",
-        "Initial Action Timeline": "2024",
-        "Complete Action Timeline": "Q2'25",
-        "Bridge Required ": "No",
-        "New Platform": "DataLake Redshift",
-        "New Sub-Module\/Application": "data",
-        "Comments": "data",
-        "Solution Details": "data",
-        "Primary SI": "data",
-        "Primary Architect": "Andre Holfeld",
-        "App Owner": "Chuah, JyyMing",
-        "Original Tab (for reference)": "Manufacturing, Technology & IT",
-        "Found in \"Enterprise Application Inventory\"": "true",
-        "Found in \"Application Inventory SharePoint\"?": "true"
+        "Found in \"Application Inventory SharePoint\"": "true"
     }
 
 ]
