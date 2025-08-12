@@ -4,32 +4,7 @@
         "Status": "3. GTO Done",
         "Radar Segment": "Manufacturing",
         "Impacted by Phoenix": "Retired",
-        "Primary CGL": "Yield Analysis",
-        "Original Environment (column to be deleted)": "Corp, Fab7, Giga",
-        "Environment": "Corp",
-        "Location": "Fab7, Giga",
-        "Function": "Manufacturing",
-        "Function Description": "Yield Analytics application F7+G",
-        "Category": "data",
-        "AI Enabled": "data",
-        "Platform Description": "Advanced yield analysis and reporting system for resolve yield issues and accelerate yield ramp.",
-        "Retirement (This column to be deleted)": "data",
-        "Lifecycle": "Legacy",
-        "Trajectory": "Retire",
-        "Action": "1:0 - retirement",
-        "Initial Action Timeline": "2023",
-        "Complete Action Timeline": "2023",
-        "Bridge Required ": "No",
-        "New Platform": "DataLake Redshift",
-        "New Sub-Module\/Application": "data",
-        "Comments": "data",
-        "Solution Details": "data",
-        "Primary SI": "data",
-        "Primary Architect": "Andre Holfeld",
-        "App Owner": "Chuah, JyyMing",
-        "Original Tab (for reference)": "Manufacturing, Technology & IT",
-        "Found in \"Enterprise Application Inventory\"": "true",
-        "Found in \"Application Inventory SharePoint\"": "true"
+        "Primary CGL": "Yield Analysis"
     }
 
 ]
