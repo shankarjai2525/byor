@@ -28,8 +28,8 @@
         "Primary Architect": "Andre Holfeld",
         "App Owner": "Chuah, JyyMing",
         "Original Tab (for reference)": "Manufacturing, Technology & IT",
-        "Found in \"Enterprise Application Inventory\"": true,
-        "Found in \"Application Inventory SharePoint\"?": true
+        "Found in \"Enterprise Application Inventory\"": "true",
+        "Found in \"Application Inventory SharePoint\"?": "true"
     },
     {
         "Application": "AceMART",
@@ -60,8 +60,8 @@
         "Primary Architect": "Andre Holfeld",
         "App Owner": "Chuah, JyyMing",
         "Original Tab (for reference)": "Manufacturing, Technology & IT",
-        "Found in \"Enterprise Application Inventory\"": true,
-        "Found in \"Application Inventory SharePoint\"?": true
+        "Found in \"Enterprise Application Inventory\"": "true",
+        "Found in \"Application Inventory SharePoint\"?": "true"
     }
 
 ]
